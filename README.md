@@ -20,8 +20,11 @@ The work on the project has been split into the following:
      
 # 2. Data Visualization and Interactive Plotting
      - The purpose of the second part was understanding the properties of TV Shows and Movies on Netflix, such as their rating, which countries are contributing most to this industry, how the industry evolved with time and the chosen release months of Movies and TV Shows, from which we can extrapolate information on consumer behavior, since Netflix is a company focused on meeting customer's needs.
-     - Data  Visualization with Basic Plots can be found on the HTML file uploaded. On this part, we set the focus on several types of data  analysis that displayed the above mentioned categories and information.
-     - Data Visualization with Interactive Plots was conducted for an even thorough investigation and understading of the Netflix dataset, since it gives the ability to check the details on a lower level by comparison to Basic Plots. For interacting with these plots, you should clone the NetflixDataset-EDA_classification.ipynb Jupyter Notebook and run it on the local computer. Most interactive plots are also displayed on the HTML file (the only ones missing are the interactive widgets on which filtering by genre can be performed)
+     - Data Visualization with Basic Plots can be found on the HTML file uploaded. 
+       On this part, we set the focus on several types of data  analysis that displayed the above mentioned categories and information.
+     - Data Visualization with Interactive Plots was conducted for an even thorough investigation and understading of the Netflix dataset, since it gives the ability to check the details on a lower level by comparison to Basic Plots. 
+       For interacting with these plots, you should clone the NetflixDataset-EDA_classification.ipynb Jupyter Notebook and run it on the local computer. 
+       Most interactive plots are also displayed on the HTML file (the only ones missing are the interactive widgets on which filtering by genre can be performed)
      
   # 3. Classification Tasks employed using multiple ML algorithms for three different experiments
        - The following classification algorithms have been employed on the experiments:
